@@ -79,7 +79,7 @@ Connect to postgres SQL database -> load data.
 
 Formal specification to be created that defines the tables format can be imported into postgres SQL database.
 
-### Detailed Report:
+## Project Report:
 
 To access the detailed process of Extract, Transform and Load follow the steps shown in the Project Report.
 
