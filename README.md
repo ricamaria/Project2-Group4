@@ -79,6 +79,18 @@ Connect to postgres SQL database -> load data.
 
 Formal specification to be created that defines the tables format can be imported into postgres SQL database.
 
+#### Inflation Table:
+
+![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/pgadmin_inflation.JPG)
+
+#### Foreign Investment Table:
+
+![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/pgadmin_foreigninvestment.JPG)
+
+#### Government Debt Table:
+
+![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/pgadmin_govdebt.JPG)
+
 ## Project Report:
 
 To access the detailed process of Extract, Transform and Load follow the steps shown in the Project Report.
