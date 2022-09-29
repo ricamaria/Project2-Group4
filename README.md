@@ -22,7 +22,7 @@ Parkavi Jayachandran,
 Rajiv Wick,
 Balvinder Rajbans
 
-### Sources of Data
+## Sources of Data
 
 Proposed data below relates to the Government Debt, Inflation Rate and Foreign Direct Investment against GDP as a percentage
 |No|Source|Link|File|
@@ -46,7 +46,7 @@ Proposed data below relates to the Government Debt, Inflation Rate and Foreign D
 
 ![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/Government%20Debt.JPG)
 
-### Applications used:
+## Applications used:
 
 Python - Libraries: Pandas, SQLAlchamy
 
