@@ -50,6 +50,8 @@ Proposed data below relates to the Government Debt, Inflation Rate and Foreign D
 
 Python - Libraries: Pandas, SQLAlchamy
 
+Jupyter Notebook
+
 Database - PGAdmin (PostgresSQL)
 
 ## Process:
