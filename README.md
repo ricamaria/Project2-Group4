@@ -33,39 +33,53 @@ Proposed data below relates to the Government Debt, Inflation Rate and Foreign D
 
 ### Dataset Tables - Raw
 
-#### Inflation annual.csv
+#### Inflation_annual.csv
 
 ![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/Inflation%20Annual%20Table.JPG)
 
 
-#### Foreign direct investment net inflows of GDP.csv
+#### Foreign_direct_investment.csv
 
 ![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/Foreign%20direct%20investment%20net%20inflows%20of%20GDP%20Table.JPG)
 
-#### GOV_DEBT_27092022120932650.csv
+#### Government_Debt.csv
 
 ![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/Government%20Debt.JPG)
 
 ### Applications used:
 
-Python - libraries: Pandas, SQLAlchamy
+Python - Libraries: Pandas, SQLAlchamy
+
 Database - PGAdmin (PostgresSQL)
 
-### Process:
-
-Open python file 
-Import csv files into Pandas - > transform tables to formal specification spec -> connect to postgres SQL database -> load data.
-
-Formal specification to be created that defines the tables structures importable into postgres SQL database.
+## Process:
 
 ### Extract :
 
+Open python file and Import csv files into Pandas 
+
+### Transform:
+
+Transform tables to formal specification
+
 Filter data for countries with data for the year range 2001 to 2010.
 
-### Data Modelling - Tables :
+##### Data Modelling - Tables :
 
 Create the tables using www.quickdatabase.com 
 
 ![chart](https://github.com/ricamaria/Project2-Group4/blob/main/Resources/Images/DatabaseModel.JPG)
+
+
+### Load:
+
+Connect to postgres SQL database -> load data.
+
+Formal specification to be created that defines the tables structures importable into postgres SQL database.
+
+### Detailed Report:
+
+To access the step by step process of Extract, Transform and Load follow the steps shown in the Project Proposal
+
 
 
