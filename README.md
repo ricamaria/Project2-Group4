@@ -81,7 +81,7 @@ Formal specification to be created that defines the tables format can be importe
 
 ### Detailed Report:
 
-To access the detailed process of Extract, Transform and Load follow the steps shown in the Project Proposal.
+To access the detailed process of Extract, Transform and Load follow the steps shown in the Project Report.
 
 
 
